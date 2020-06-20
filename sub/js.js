@@ -11,8 +11,7 @@ for(var i=0; inputElements[i]; ++i){
 
     if(sum==0)
         {
-            document.getElementById("res").innerHTML="انت بعيد عن ان تكون حامل للفايرس و لكن رجاء الالتزام بتعليمات الوقاية";
-
+            window.open("../result none.html","_self");
         }
     else if(sum<=4)
         {
