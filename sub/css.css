@@ -59,10 +59,7 @@ span{
     border: 15px;
     border-radius: 5px;
 }
-span:hover{
-    background-color: cornflowerblue;
-    color: white;
-}
+
 footer {
     text-align: center;
     position: absolute;
